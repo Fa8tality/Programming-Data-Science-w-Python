@@ -1,1 +1,6 @@
-.github/**
+data/Chicago-Divvy-2016.csv
+data/NYC-CitiBike-2016.csv
+data/Washington-CapitalBikeshare-2016.csv
+data/Washington-2016-Summary.csv
+data/Chicago-2016-Summary.csv
+data/NYC-2016-Summary.csv
