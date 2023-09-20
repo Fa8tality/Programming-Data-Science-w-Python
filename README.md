@@ -14,12 +14,14 @@ Over the past decade, bicycle-sharing systems have been growing in number and po
 Chicago data \
     * Chicago-2016-Summary.csv \
     * Chicago-Divvy-2016.csv \
+
 New York City data \
     * NYC-2016-Summary.csv \
     * NYC-CitiBike-2016.csv \
+
 Washington data \
     * Washington-2016-Summary.csv \
-    * Washington-CapitalBikeshare-2016.csv \
+    * Washington-CapitalBikeshare-2016.csv 
 
 
 ### Credits
