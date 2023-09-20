@@ -11,13 +11,17 @@ Over the past decade, bicycle-sharing systems have been growing in number and po
 
 
 ### Files used
-Chicago-2016-Summary.csv
-Chicago-Divvy-2016.csv
-NYC-2016-Summary.csv
-NYC-CitiBike-2016.csv
-Washington-2016-Summary.csv
-Washington-CapitalBikeshare-2016.csv
+Chicago data
+    * Chicago-2016-Summary.csv
+    * Chicago-Divvy-2016.csv
+New York City data
+    * NYC-2016-Summary.csv
+    * NYC-CitiBike-2016.csv
+Washington data
+    * Washington-2016-Summary.csv
+    * Washington-CapitalBikeshare-2016.csv
 
 
 ### Credits
 https://sqlbak.com/blog/wp-content/uploads/2020/12/Jupyter-Notebook-Markdown-Cheatsheet2.pdf
+https://docs.newrelic.com/docs/style-guide/structure/styleguide-markup-indentation
