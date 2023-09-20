@@ -1,17 +1,23 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
-
 ### Date created
-Include the date you created this project and README file.
+9/9/2023
+
 
 ### Project Title
-Replace the Project Title
+**2016 US Bike Share Activity Snapshot**
+
 
 ### Description
-Describe what your project is about and what it does
+Over the past decade, bicycle-sharing systems have been growing in number and popularity in cities across the world. Bicycle-sharing systems allow users to rent bicycles for short trips, typically 30 minutes or less. Thanks to the rise in information technologies, it is easy for a user of the system to access a dock within the system to unlock or return bicycles. These technologies also provide a wealth of data that can be used to explore how these bike-sharing systems are used.
+
 
 ### Files used
-Include the files used
+Chicago-2016-Summary.csv
+Chicago-Divvy-2016.csv
+NYC-2016-Summary.csv
+NYC-CitiBike-2016.csv
+Washington-2016-Summary.csv
+Washington-CapitalBikeshare-2016.csv
+
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+https://sqlbak.com/blog/wp-content/uploads/2020/12/Jupyter-Notebook-Markdown-Cheatsheet2.pdf
