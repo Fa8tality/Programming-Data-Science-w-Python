@@ -2,7 +2,9 @@
 # coding: utf-8
 
 # # 2016 US Bike Share Activity Snapshot
-# 
+#
+# by S Trieloff
+#
 # ## Table of Contents
 # - [Introduction](#intro)
 # - [Posing Questions](#pose_questions)
